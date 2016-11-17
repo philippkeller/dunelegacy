@@ -2243,7 +2243,9 @@
 					/Library/Frameworks/SDL.framework/Headers,
 					"$(HOME)/Library/Frameworks/SDL_mixer.framework/Headers",
 					/Library/Frameworks/SDL_mixer.framework/Headers,
+					SDL2.framework/Headers,
 					"$(HEADER_SEARCH_PATHS)",
+					SDL2_mixer.framework/Headers/,
 				);
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CPLUSPLUSFLAGS = "-mno-fused-madd";
@@ -2296,7 +2298,9 @@
 					/Library/Frameworks/SDL.framework/Headers,
 					"$(HOME)/Library/Frameworks/SDL_mixer.framework/Headers",
 					/Library/Frameworks/SDL_mixer.framework/Headers,
+					SDL2.framework/Headers,
 					"$(HEADER_SEARCH_PATHS)",
+					SDL2_mixer.framework/Headers/,
 				);
 				OTHER_CPLUSPLUSFLAGS = "-mno-fused-madd";
 				OTHER_LDFLAGS = (

@@ -14,8 +14,6 @@ This is tested with XCode 8.1 on Sierra.
 git clone https://github.com/philippkeller/dunelegacy.git 
 cd dunelegacy/IDE/xCode
 mkdir -p ~/Library/Frameworks/
-cp -rp SDL2.framework ~/Library/Frameworks/
-cp -rp SDL2_mixer.framework ~/Library/Frameworks/
 open Dune\ Legacy.xcodeproj
 ```
 
