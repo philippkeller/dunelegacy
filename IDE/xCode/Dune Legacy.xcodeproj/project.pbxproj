@@ -224,6 +224,22 @@
 		13E564D1169B55BE00D282B9 /* OPENSD2.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 13E564D0169B55BE00D282B9 /* OPENSD2.PAK */; };
 		13E929C010AF72BF00169991 /* Dune2-Versions.txt in Resources */ = {isa = PBXBuildFile; fileRef = 13E929BF10AF72BF00169991 /* Dune2-Versions.txt */; };
 		174241721DDE0953001FB159 /* format.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 174241711DDE0953001FB159 /* format.cpp */; };
+		174241AA1DDE3F9A001FB159 /* GFXHD.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 1742419C1DDE3F9A001FB159 /* GFXHD.PAK */; };
+		174241BA1DDE41FF001FB159 /* FRENCH.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241AB1DDE41FF001FB159 /* FRENCH.PAK */; };
+		174241BB1DDE41FF001FB159 /* GERMAN.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241AC1DDE41FF001FB159 /* GERMAN.PAK */; };
+		174241BC1DDE41FF001FB159 /* SCENARIO.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241AD1DDE41FF001FB159 /* SCENARIO.PAK */; };
+		174241BD1DDE41FF001FB159 /* SOUND.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241AE1DDE41FF001FB159 /* SOUND.PAK */; };
+		174241BE1DDE41FF001FB159 /* VOC.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241AF1DDE41FF001FB159 /* VOC.PAK */; };
+		174241BF1DDE41FF001FB159 /* ATRE.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241B01DDE41FF001FB159 /* ATRE.PAK */; };
+		174241C01DDE41FF001FB159 /* DUNE.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241B11DDE41FF001FB159 /* DUNE.PAK */; };
+		174241C11DDE41FF001FB159 /* ENGLISH.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241B21DDE41FF001FB159 /* ENGLISH.PAK */; };
+		174241C21DDE41FF001FB159 /* FINALE.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241B31DDE41FF001FB159 /* FINALE.PAK */; };
+		174241C31DDE41FF001FB159 /* HARK.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241B41DDE41FF001FB159 /* HARK.PAK */; };
+		174241C41DDE41FF001FB159 /* INTRO.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241B51DDE41FF001FB159 /* INTRO.PAK */; };
+		174241C51DDE41FF001FB159 /* INTROVOC.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241B61DDE41FF001FB159 /* INTROVOC.PAK */; };
+		174241C61DDE41FF001FB159 /* MENTAT.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241B71DDE41FF001FB159 /* MENTAT.PAK */; };
+		174241C71DDE41FF001FB159 /* MERC.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241B81DDE41FF001FB159 /* MERC.PAK */; };
+		174241C81DDE41FF001FB159 /* ORDOS.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241B91DDE41FF001FB159 /* ORDOS.PAK */; };
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
 		CEEB16A91CD69F7900CF91D9 /* surroundopl.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CEEB16A71CD69F7900CF91D9 /* surroundopl.cpp */; };
 		CEEB16AA1CD69F7900CF91D9 /* woodyopl.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CEEB16A81CD69F7900CF91D9 /* woodyopl.cpp */; };
@@ -783,6 +799,22 @@
 		13FF590812A2EEA500100C53 /* 2P - 32x128 - Canyon.ini */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2P - 32x128 - Canyon.ini"; sourceTree = "<group>"; };
 		13FF590912A2EEA500100C53 /* 2P - 64x64 - North vs. South.ini */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2P - 64x64 - North vs. South.ini"; sourceTree = "<group>"; };
 		174241711DDE0953001FB159 /* format.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = format.cpp; sourceTree = "<group>"; };
+		1742419C1DDE3F9A001FB159 /* GFXHD.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = GFXHD.PAK; path = ../../data/GFXHD.PAK; sourceTree = "<group>"; };
+		174241AB1DDE41FF001FB159 /* FRENCH.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = FRENCH.PAK; path = ../../data/FRENCH.PAK; sourceTree = "<group>"; };
+		174241AC1DDE41FF001FB159 /* GERMAN.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = GERMAN.PAK; path = ../../data/GERMAN.PAK; sourceTree = "<group>"; };
+		174241AD1DDE41FF001FB159 /* SCENARIO.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = SCENARIO.PAK; path = ../../data/SCENARIO.PAK; sourceTree = "<group>"; };
+		174241AE1DDE41FF001FB159 /* SOUND.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = SOUND.PAK; path = ../../data/SOUND.PAK; sourceTree = "<group>"; };
+		174241AF1DDE41FF001FB159 /* VOC.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = VOC.PAK; path = ../../data/VOC.PAK; sourceTree = "<group>"; };
+		174241B01DDE41FF001FB159 /* ATRE.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = ATRE.PAK; path = ../../data/ATRE.PAK; sourceTree = "<group>"; };
+		174241B11DDE41FF001FB159 /* DUNE.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = DUNE.PAK; path = ../../data/DUNE.PAK; sourceTree = "<group>"; };
+		174241B21DDE41FF001FB159 /* ENGLISH.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = ENGLISH.PAK; path = ../../data/ENGLISH.PAK; sourceTree = "<group>"; };
+		174241B31DDE41FF001FB159 /* FINALE.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = FINALE.PAK; path = ../../data/FINALE.PAK; sourceTree = "<group>"; };
+		174241B41DDE41FF001FB159 /* HARK.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = HARK.PAK; path = ../../data/HARK.PAK; sourceTree = "<group>"; };
+		174241B51DDE41FF001FB159 /* INTRO.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = INTRO.PAK; path = ../../data/INTRO.PAK; sourceTree = "<group>"; };
+		174241B61DDE41FF001FB159 /* INTROVOC.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = INTROVOC.PAK; path = ../../data/INTROVOC.PAK; sourceTree = "<group>"; };
+		174241B71DDE41FF001FB159 /* MENTAT.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = MENTAT.PAK; path = ../../data/MENTAT.PAK; sourceTree = "<group>"; };
+		174241B81DDE41FF001FB159 /* MERC.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = MERC.PAK; path = ../../data/MERC.PAK; sourceTree = "<group>"; };
+		174241B91DDE41FF001FB159 /* ORDOS.PAK */ = {isa = PBXFileReference; lastKnownFileType = file; name = ORDOS.PAK; path = ../../data/ORDOS.PAK; sourceTree = "<group>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
 		32CA4F630368D1EE00C91783 /* Dune Legacy_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Dune Legacy_Prefix.pch"; sourceTree = "<group>"; };
@@ -1708,6 +1740,22 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				174241AB1DDE41FF001FB159 /* FRENCH.PAK */,
+				174241AC1DDE41FF001FB159 /* GERMAN.PAK */,
+				174241AD1DDE41FF001FB159 /* SCENARIO.PAK */,
+				174241AE1DDE41FF001FB159 /* SOUND.PAK */,
+				174241AF1DDE41FF001FB159 /* VOC.PAK */,
+				174241B01DDE41FF001FB159 /* ATRE.PAK */,
+				174241B11DDE41FF001FB159 /* DUNE.PAK */,
+				174241B21DDE41FF001FB159 /* ENGLISH.PAK */,
+				174241B31DDE41FF001FB159 /* FINALE.PAK */,
+				174241B41DDE41FF001FB159 /* HARK.PAK */,
+				174241B51DDE41FF001FB159 /* INTRO.PAK */,
+				174241B61DDE41FF001FB159 /* INTROVOC.PAK */,
+				174241B71DDE41FF001FB159 /* MENTAT.PAK */,
+				174241B81DDE41FF001FB159 /* MERC.PAK */,
+				174241B91DDE41FF001FB159 /* ORDOS.PAK */,
+				1742419C1DDE3F9A001FB159 /* GFXHD.PAK */,
 				13D43F4F169B6BA40052EA3B /* locale */,
 				13E564D0169B55BE00D282B9 /* OPENSD2.PAK */,
 				13FF590412A2EEA500100C53 /* maps */,
@@ -1814,10 +1862,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				174241C31DDE41FF001FB159 /* HARK.PAK in Resources */,
+				174241C11DDE41FF001FB159 /* ENGLISH.PAK in Resources */,
 				134D2FE90F38F178001B38EF /* LEGACY.PAK in Resources */,
+				174241BB1DDE41FF001FB159 /* GERMAN.PAK in Resources */,
+				174241BC1DDE41FF001FB159 /* SCENARIO.PAK in Resources */,
+				174241BE1DDE41FF001FB159 /* VOC.PAK in Resources */,
+				174241C81DDE41FF001FB159 /* ORDOS.PAK in Resources */,
 				13E564D1169B55BE00D282B9 /* OPENSD2.PAK in Resources */,
+				174241C61DDE41FF001FB159 /* MENTAT.PAK in Resources */,
+				174241BF1DDE41FF001FB159 /* ATRE.PAK in Resources */,
+				174241C01DDE41FF001FB159 /* DUNE.PAK in Resources */,
+				174241AA1DDE3F9A001FB159 /* GFXHD.PAK in Resources */,
 				13E929C010AF72BF00169991 /* Dune2-Versions.txt in Resources */,
+				174241BD1DDE41FF001FB159 /* SOUND.PAK in Resources */,
+				174241BA1DDE41FF001FB159 /* FRENCH.PAK in Resources */,
+				174241C71DDE41FF001FB159 /* MERC.PAK in Resources */,
 				13C9211D114D618F00A1E7AA /* dunelegacy.icns in Resources */,
+				174241C21DDE41FF001FB159 /* FINALE.PAK in Resources */,
+				174241C41DDE41FF001FB159 /* INTRO.PAK in Resources */,
+				174241C51DDE41FF001FB159 /* INTROVOC.PAK in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

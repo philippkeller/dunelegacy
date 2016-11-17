@@ -15,6 +15,21 @@ EXTRA_DIST = include \
              debian/rules \
              data/LEGACY.PAK \
              data/OPENSD2.PAK \
+             data/atre.pak \
+             data/dune.pak \
+             data/english.pak \
+             data/finale.pak \
+             data/hark.pak \
+             data/intro.pak \
+             data/introvoc.pak \
+             data/locale \
+             data/maps \
+             data/mentat.pak \
+             data/merc.pak \
+             data/ordos.pak \
+             data/scenario.pak \
+             data/sound.pak \
+             data/voc.pak \
              data/Dune2-Versions.txt \
              data/maps \
              data/locale \
