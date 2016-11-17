@@ -4,7 +4,7 @@ fork of dune legacy from sourceforge: https://sourceforge.net/p/dunelegacy/code/
 
 # Run on OSX
 
-Jump over to [https://github.com/philippkeller/dunelegacy/releases/latest](Releases) and download/install the `Dune Legacy.dmg` release, it *might* even work..!
+Jump over to [Releases](https://github.com/philippkeller/dunelegacy/releases/latest) and download/install the `Dune Legacy.dmg` release, it *might* even work..!
 
 # How to build+run on OSX
 
