@@ -240,6 +240,8 @@
 		174241C61DDE41FF001FB159 /* MENTAT.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241B71DDE41FF001FB159 /* MENTAT.PAK */; };
 		174241C71DDE41FF001FB159 /* MERC.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241B81DDE41FF001FB159 /* MERC.PAK */; };
 		174241C81DDE41FF001FB159 /* ORDOS.PAK in Resources */ = {isa = PBXBuildFile; fileRef = 174241B91DDE41FF001FB159 /* ORDOS.PAK */; };
+		17BDFB1B1DDEDA4A00F63F94 /* SDL2.framework in Copy Frameworks into .app bundle */ = {isa = PBXBuildFile; fileRef = E3F2E6DE1CE6F9650077067F /* SDL2.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		17BDFB1C1DDEDA4E00F63F94 /* SDL2_mixer.framework in Copy Frameworks into .app bundle */ = {isa = PBXBuildFile; fileRef = E3F2E6DD1CE6F9650077067F /* SDL2_mixer.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
 		CEEB16A91CD69F7900CF91D9 /* surroundopl.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CEEB16A71CD69F7900CF91D9 /* surroundopl.cpp */; };
 		CEEB16AA1CD69F7900CF91D9 /* woodyopl.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CEEB16A81CD69F7900CF91D9 /* woodyopl.cpp */; };
@@ -268,6 +270,8 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
+				17BDFB1B1DDEDA4A00F63F94 /* SDL2.framework in Copy Frameworks into .app bundle */,
+				17BDFB1C1DDEDA4E00F63F94 /* SDL2_mixer.framework in Copy Frameworks into .app bundle */,
 			);
 			name = "Copy Frameworks into .app bundle";
 			runOnlyForDeploymentPostprocessing = 0;
