@@ -744,7 +744,7 @@
 		13C90ADE12EB93A000DD9D87 /* 2P - 64x64 - Duality.ini */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2P - 64x64 - Duality.ini"; sourceTree = "<group>"; };
 		13C90ADF12EB93A000DD9D87 /* 2P - 64x64 - Twin Fists.ini */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2P - 64x64 - Twin Fists.ini"; sourceTree = "<group>"; };
 		13C90AE012EB93A000DD9D87 /* 3P - 64x32 - Middle Man.ini */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "3P - 64x32 - Middle Man.ini"; sourceTree = "<group>"; };
-		13C9211C114D618F00A1E7AA /* dunelegacy.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = dunelegacy.icns; path = ../../dunelegacy.icns; sourceTree = SOURCE_ROOT; };
+		13C9211C114D618F00A1E7AA /* dunelegacy.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = dunelegacy.icns; path = ../../windows/dunelegacy.icns; sourceTree = SOURCE_ROOT; };
 		13D43F50169B6BA40052EA3B /* dunelegacy.pot */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dunelegacy.pot; sourceTree = "<group>"; };
 		13D43F51169B6BA40052EA3B /* English.en.po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = English.en.po; sourceTree = "<group>"; };
 		13D43F52169B6BA40052EA3B /* French.fr.po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = French.fr.po; sourceTree = "<group>"; };
