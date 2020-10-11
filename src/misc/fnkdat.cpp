@@ -387,7 +387,7 @@ int fnkdat(const _TCHAR* target, _TCHAR* buffer, int len, int flags) {
 #include <cstdlib>
 
 #ifdef __APPLE__
-#include <MacFunctions.h>
+#include "MacFunctions.h"
 #endif
 
 #ifndef FNKDAT_DIRMODE

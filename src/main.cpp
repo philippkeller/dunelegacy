@@ -76,7 +76,7 @@
 #endif
 
 #ifdef __APPLE__
-    #include <MacFunctions.h>
+    #include "MacFunctions.h"
 #endif
 
 #if !defined(__GNUG__) || (defined(_GLIBCXX_HAS_GTHREADS) && defined(_GLIBCXX_USE_C99_STDINT_TR1) && (ATOMIC_INT_LOCK_FREE > 1) && !defined(_GLIBCXX_HAS_GTHREADS))
